@@ -28,3 +28,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-01-09**: 🗄️  Explorando banco de dados SQL
 - **2026-01-10**: 🐳 Primeiros passos com Docker
 - **2026-01-11**: ✅ Resolvendo exercícios no LeetCode
+- **2026-01-12**: 📖 Lendo sobre Design Patterns
