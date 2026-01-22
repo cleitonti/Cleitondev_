@@ -38,3 +38,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-01-19**: 🔐 Estudando segurança em aplicações web
 - **2026-01-20**: 📊 Explorando visualização de dados
 - **2026-01-21**: 🎨 Melhorando skills de CSS
+- **2026-01-22**: 📦 Gerenciando dependências com npm
