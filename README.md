@@ -45,3 +45,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-01-26**: 📱 Primeiros passos com React Native
 - **2026-01-27**: ⚡ Otimizando performance de aplicação
 - **2026-01-28**: 🗂️  Organizando projeto com boas práticas
+- **2026-01-29**: 🔗 Integrando APIs externas
