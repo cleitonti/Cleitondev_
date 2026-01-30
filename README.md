@@ -46,3 +46,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-01-27**: ⚡ Otimizando performance de aplicação
 - **2026-01-28**: 🗂️  Organizando projeto com boas práticas
 - **2026-01-29**: 🔗 Integrando APIs externas
+- **2026-01-30**: 🏗️  Arquitetura de software - estudo
