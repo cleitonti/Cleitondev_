@@ -64,3 +64,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-02-14**: 💡 Novo aprendizado: async/await
 - **2026-02-15**: 🚀 Deploy de projeto pequeno
 - **2026-02-16**: 🎯 Definindo metas para o mês
+- **2026-02-17**: 🌱 Contribuição em projeto open source
