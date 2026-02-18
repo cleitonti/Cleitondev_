@@ -65,3 +65,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-02-15**: 🚀 Deploy de projeto pequeno
 - **2026-02-16**: 🎯 Definindo metas para o mês
 - **2026-02-17**: 🌱 Contribuição em projeto open source
+- **2026-02-18**: 🔐 Estudando segurança em aplicações web
