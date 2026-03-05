@@ -80,3 +80,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-03-02**: 📋 Revisão de código e refatoração
 - **2026-03-03**: 📚 Estudando JavaScript moderno
 - **2026-03-04**: 🐍 Praticando Python - estruturas de dados
+- **2026-03-05**: ⚛️  Revisando conceitos de React
