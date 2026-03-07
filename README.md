@@ -82,3 +82,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-03-04**: 🐍 Praticando Python - estruturas de dados
 - **2026-03-05**: ⚛️  Revisando conceitos de React
 - **2026-03-06**: 🛠️  Configurando ambiente de desenvolvimento
+- **2026-03-07**: 📝 Anotações sobre Clean Code
