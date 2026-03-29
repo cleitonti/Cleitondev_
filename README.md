@@ -104,3 +104,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-03-26**: 🧩 Resolvendo problemas de lógica
 - **2026-03-27**: 📱 Primeiros passos com React Native
 - **2026-03-28**: ⚡ Otimizando performance de aplicação
+- **2026-03-29**: 🗂️  Organizando projeto com boas práticas
