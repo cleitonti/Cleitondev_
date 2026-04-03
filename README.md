@@ -109,3 +109,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-03-31**: 🏗️  Arquitetura de software - estudo
 - **2026-04-01**: 📋 Revisão de código e refatoração
 - **2026-04-02**: 📚 Estudando JavaScript moderno
+- **2026-04-03**: 🐍 Praticando Python - estruturas de dados
