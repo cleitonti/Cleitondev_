@@ -120,3 +120,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-04-11**: ✅ Resolvendo exercícios no LeetCode
 - **2026-04-12**: 📖 Lendo sobre Design Patterns
 - **2026-04-13**: 🧪 Escrevendo testes unitários
+- **2026-04-14**: 🔍 Estudando algoritmos de busca
