@@ -122,3 +122,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-04-13**: 🧪 Escrevendo testes unitários
 - **2026-04-14**: 🔍 Estudando algoritmos de busca
 - **2026-04-15**: 💡 Novo aprendizado: async/await
+- **2026-04-16**: 🚀 Deploy de projeto pequeno
