@@ -129,3 +129,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-04-20**: 📊 Explorando visualização de dados
 - **2026-04-21**: 🎨 Melhorando skills de CSS
 - **2026-04-22**: 📦 Gerenciando dependências com npm
+- **2026-04-23**: 🔄 Praticando Git Flow
