@@ -132,3 +132,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-04-23**: 🔄 Praticando Git Flow
 - **2026-04-24**: 💻 Pair programming com colega
 - **2026-04-25**: 🧩 Resolvendo problemas de lógica
+- **2026-04-26**: 📱 Primeiros passos com React Native
