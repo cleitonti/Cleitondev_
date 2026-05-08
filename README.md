@@ -144,3 +144,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-05-05**: 🛠️  Configurando ambiente de desenvolvimento
 - **2026-05-06**: 📝 Anotações sobre Clean Code
 - **2026-05-07**: 🔧 Ajustes no projeto pessoal
+- **2026-05-08**: 🌐 Aprendendo sobre APIs REST
