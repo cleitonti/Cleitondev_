@@ -147,3 +147,4 @@ Este repositório documenta minha jornada como desenvolvedor ao longo de 2026 �
 - **2026-05-08**: 🌐 Aprendendo sobre APIs REST
 - **2026-05-09**: 🗄️  Explorando banco de dados SQL
 - **2026-05-10**: 🐳 Primeiros passos com Docker
+- **2026-05-11**: ✅ Resolvendo exercícios no LeetCode
